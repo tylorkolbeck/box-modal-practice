@@ -23,6 +23,7 @@ input {
 }
 
 #box-modal-wrapper {
+    position: relative;
     width: 200px;
     height: 200px;
     background-color: dodgerblue;
@@ -39,4 +40,10 @@ input {
 
 .input-wrapper {
     padding: 20px;
+}
+
+.label {
+    position: absolute;
+    right: -135px;
+    top: 0;
 }
