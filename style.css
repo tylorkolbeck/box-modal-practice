@@ -2,7 +2,6 @@
     margin: 0px;
     padding: 0px;
     transition: all ease 1s;
-    /* box-sizing: border-box; */
 }
 
 body {
@@ -12,7 +11,6 @@ body {
 
 .content-text {
     background: white;
-    /* height: 200px; */
 }
 
 #fixed {
