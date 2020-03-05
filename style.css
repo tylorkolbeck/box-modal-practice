@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: goldenrod;
+}
+
+#fixed {
+    position: fixed;
+    padding: 10px;
+    top: 0;
+    right: 0;
+    background: white;
+}
+
+input {
+    padding: 8px 5px;
+    border-radius: 5px;
+    outline: none;
+    border: 0;
+}
+
+#box-modal-wrapper {
+    width: 200px;
+    height: 200px;
+    background-color: dodgerblue;
+    padding: 20px;
+    margin: 40px;
+    border-width: 5px;
+    border-color: rgb(252, 55, 55);
+    border-style: solid;
+}
+
+#box-modal-wrapper p {
+    border: 1px dotted blue;
+}
+
+.input-wrapper {
+    padding: 20px;
+}
