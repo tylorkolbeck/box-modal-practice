@@ -33,7 +33,7 @@ input {
 #box-modal-wrapper {
     position: relative;
     width: 200px;
-    height: 200px;
+    /* height: 200px; */
     background-color: dodgerblue;
     /* margin: 40px; */
     border-width: 0px;
